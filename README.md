@@ -11,3 +11,11 @@ Serviço rodando na porta 3333
     npm run knex:migrate
     npm run knex:seed
     npm run dev
+
+## Web
+
+Serviço rodando na porta 3000
+
+    cd nlw1/web
+    npm install
+    npm start
