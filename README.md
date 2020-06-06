@@ -12,10 +12,18 @@ Serviço rodando na porta 3333
     npm run knex:seed
     npm run dev
 
-## Web
+## App Web
 
 Serviço rodando na porta 3000
 
     cd nlw1/web
+    npm install
+    npm start
+
+## App Mobile
+
+Serviço rodando pelo expo
+
+    cd nlw1/mobile
     npm install
     npm start
